@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ketan2Jangid
+- 👋 Hi, I’m Ketan Jangid
 - 👀 I’m interested in Consumer Tech Stuff
 - 🌱 I’m currently pursuing B. Tech in Computer Science and Engineering
 
